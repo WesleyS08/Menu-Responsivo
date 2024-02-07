@@ -9,8 +9,10 @@ Por se tratar de um projeto de aprendizagem, não foi considerada a escrita de s
 
 chegando a esse resultado: 
 
-![Aparencia do projeto](/src/img/Resultado1.png)
-![Aparencia do projeto 2](/src/img/Resultado2.png)
+
+
+![Aparencia do projeto](/assets/img/Resultado1.png)
+![Aparencia do projeto 2](/assets/img/Resultado2.png)
 
 ## Sugestões e Contribuições
 
